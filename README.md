@@ -10,7 +10,7 @@ We enumerate all non-isomorphic simple undirected graphs on _n_ nodes. We calcul
 
 **Download**
 
-_Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](SNA-Project-DegreeDistributions.pdf)\]
+_Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](../../raw/master/SNA-Project-DegreeDistributions.pdf)\]
 
 **Dependencies**
 
