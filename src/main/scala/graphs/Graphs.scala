@@ -1,5 +1,11 @@
 package graphs
 
+//--------------------------------------------------------
+// Copyright (c) 2013 Mike French
+// This software is released under the MIT license
+// http://www.opensource.org/licenses/mit-license.php
+//--------------------------------------------------------
+
 import scala.collection.mutable.Set
 import scala.collection.mutable.HashSet
 import scala.collection.mutable.Map
