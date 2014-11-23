@@ -1,8 +1,8 @@
--> ### Degree Distributions for Small Graphs <-
+### Degree Distributions for Small Graphs
 
--> Final Project - Social Network Analysis - Coursera  <-   
--> _Mike French_     <-
--> _December 2013_ <-
+Final Project - Social Network Analysis - Coursera    
+_Mike French_     
+_December 2013_
 
 **Abstract**
 
