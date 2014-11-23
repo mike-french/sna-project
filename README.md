@@ -1,4 +1,4 @@
-### Degree Distributions for Small Graphs
+#### Degree Distributions for Small Graphs
 
 Final Project - Social Network Analysis - Coursera    
 _Mike French_     
@@ -12,12 +12,11 @@ We enumerate all non-isomorphic simple undirected graphs on _n_ nodes. We calcul
 
 _Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](SNA-Project-DegreeDistributions.pdf)\]
 
-**Code Dependencies**
+**Dependencies**
 
 You must install [GraphViz](http://www.graphviz.org/) and update your `PATH` to include the `bin` directory.
 
 **Permissions**
 
-The paper is _Copyright © 2013 Mike French_
-
-The Scala code is open source, released under the [MIT License](LICENSE).
+The Scala code is open source, released under the [MIT License](LICENSE).     
+The code and the paper are  _Copyright © 2013 Mike French_
