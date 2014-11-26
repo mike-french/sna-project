@@ -46,7 +46,6 @@ class GraphsSuite extends FunSuite {
   }
   
   test("morphism, 3") {
-    
     val line = createLine( 3 )
     val star = createStar( 3 )
     
@@ -56,11 +55,9 @@ class GraphsSuite extends FunSuite {
     // the same abstract form
     val swap12 = createMorphism( List(1,2,3), List(2,1,3) )
     assert( line.isIsomorphism( swap12, star ) )
-					  
   }
   
   test("connected") {
-    
     var g = new Graph().addNode( 1 )
     assert( g.isConnected )
     g.addNode( 2 )
@@ -88,7 +85,6 @@ class GraphsSuite extends FunSuite {
   }
   
   test("degrees") {
-    
     assert( new Graph().addEdge(1,2).histogram === Array[Int]( 2 ) )
     
     assert( createLine(3).histogram   === Array[Int]( 2, 1 ) )
@@ -138,12 +134,11 @@ class GraphsSuite extends FunSuite {
   }
   
   test("dot") { 
-    
     generateTable( "g2table", createUniqueGraphs(2) ) 
     generateTable( "g3table", createUniqueGraphs(3) ) 
     generateTable( "g4table", createUniqueGraphs(4) )
-  //generateTable( "g5table", createUniqueGraphs(5) )
-  //generateTable( "g6table", createUniqueGraphs(6) )
+    generateTable( "g5table", createUniqueGraphs(5) )
+    generateTable( "g6table", createUniqueGraphs(6) )
   }
 
 }
