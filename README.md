@@ -16,6 +16,13 @@ _Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](../.
 
 You must install [GraphViz](http://www.graphviz.org/) and update your `PATH` to include the `bin` directory.
 
+**Build & Run**
+
+If you are building with the [Scala Build Tool](http://www.scala-sbt.org/), just type: `sbt test`   
+The output DOT, PNG, HTML files will be written to the `dot` subdirectory.      
+The tables for _n=1,2,3,4,5_ will be written quite quickly, _n=6_ case will take a bit longer.     
+Click on one of the HTML files, such as `g6table.html`, to see the result in your browser.
+
 **Permissions**
 
 The Scala code is open source, released under the [MIT License](LICENSE).     
