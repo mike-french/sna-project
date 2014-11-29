@@ -1,6 +1,6 @@
 #### Degree Distributions for Small Graphs
 
-Final Project - Social Network Analysis - Coursera    
+Final Project - [Social Network Analysis](http://www.coursera.org/course/sna) - Coursera    
 _Mike French_     
 _December 2013_
 
@@ -16,7 +16,8 @@ _Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](../.
 
 The paper scored a mark of 25/30 (83%) in peer review by other students on the SNA course.
 
-_"Elegant and thorough work!"_  -- Lada Adamic, SNA course tutor (Associate Professor, University Michigan)
+_"Elegant and thorough work!"_     
+Lada Adamic, SNA course tutor (Associate Professor, University Michigan)
 
 **Dependencies**
 
