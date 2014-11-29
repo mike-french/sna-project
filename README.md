@@ -12,6 +12,12 @@ We enumerate all non-isomorphic simple undirected graphs on _n_ nodes. We calcul
 
 _Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](../../raw/master/SNA-Project-DegreeDistributions.pdf)\]
 
+**Assessment**
+
+The paper scored a mark of 25/30 (83%) in peer review by other students on the SNA course.
+
+_"Elegant and thorough work!"_  -- Lada Adamic, SNA course tutor (Associate Professor, University Michigan)
+
 **Dependencies**
 
 You must install [GraphViz](http://www.graphviz.org/) and update your `PATH` to include the `bin` directory.
