@@ -12,6 +12,11 @@ We enumerate all non-isomorphic simple undirected graphs on _n_ nodes. We calcul
 
 _Degree Distributions for Small Graphs_, Mike French, December 2013 \[[pdf](../../raw/master/SNA-Project-DegreeDistributions.pdf)\]
 
+**Errata**
+
+In the first figure, the label says _n=3_, when it is obviously _n=4_.    
+The `createMorphism` function is missing from the source code.
+
 **Assessment**
 
 The paper scored a mark of 25/30 (83%) in peer review by other students on the SNA course.
